@@ -3,7 +3,7 @@
 
 # AIS7
 
-![](./images/AIS.jpg)
+![](./images/AIS.JPG)
 
 In this repository you can find all the needed material for developing the assignments related to the 4th year Autonomous & Intelligent Systems course of Fontys Mechatronics.
 
